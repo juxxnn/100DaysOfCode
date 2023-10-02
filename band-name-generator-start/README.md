@@ -1,4 +1,4 @@
-# Gerador de Nomes de Bandas 🎸🎹
+<h1 align='center'>Gerador de Nomes de Bandas 🎸🎹</h1>
 
 Este é um projeto simples em Python que gera nomes de bandas com base no nome da sua cidade e no nome do seu pet.
 
