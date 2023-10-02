@@ -6,14 +6,25 @@
 
 
 ## Sobre
-Neste repositório é usado para documentar minha jornada, você encontrará projetos realizados todos os dias. 
-São 100 projetos em 100 dias proposto pela [DayOfThePython](https://100daysofpython.dev/).
-
-O objetivo do #DayOfThePython é dominar a linguagem Python. 
+Neste repositório é usado para documentar minha jornada pessoal de 100 dias de programação. Cada pasta representa um projeto concluído em um dia específico do desafio.
+O desafio "100 Days Of Code" é um compromisso pessoal para programar todos os dias durante 100 dias consecutivos. O objetivo é melhorar suas habilidades de programação, aprender novas tecnologias e construir projetos interessantes ao longo do caminho proposto pela [DayOfThePython](https://100daysofpython.dev/).
 
 ## Progresso
 
+Cada pasta contém um projeto individual, juntamente com qualquer documentação relevante ou informações adicionais sobre o que foi aprendido nesse dia.
+
 - [✔️] 📚 Day 1 > [Project: Band Name Generator](https://github.com/juxxnn/100DaysOfCode/tree/main/band-name-generator-start)
+
+## Pré-requisitos
+
+Antes de executar qualquer um dos projetos, certifique-se de ter os seguintes pré-requisitos instalados em seu sistema:
+
+- Python 3.x: [Download Python](https://www.python.org/downloads/)
+- Outras dependências específicas de cada projeto (se houver).
+
+## Execução dos Projetos
+
+Navegue até a pasta do projeto que deseja executar e siga as instruções específicas fornecidas na pasta para configurar e executar o projeto.
 
 -------------------
 Esse repositório está sob licença MIT. Para mais detalhes, acesse <a href="https://github.com/juxxnn/100DaysOfCode/blob/main/LICENSE">license</a>.
