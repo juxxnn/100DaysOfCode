@@ -14,7 +14,8 @@ Antes de executar este programa, certifique-se de ter o Python 3.x instalado em 
 
    ```bash
    git clone https://github.com/juxxnn/100DaysOfCode.git
-   cd 100DaysOfCod
+   cd 100DaysOfCode
+   cd band-name-generator-start
    ```
 
 ### macOS
@@ -23,7 +24,8 @@ Antes de executar este programa, certifique-se de ter o Python 3.x instalado em 
 
    ```bash
    git clone https://github.com/juxxnn/100DaysOfCode.git
-   cd 100DaysOfCod
+   cd 100DaysOfCode
+   cd band-name-generator-start
    ```
 
 ### Windows
@@ -32,14 +34,15 @@ Antes de executar este programa, certifique-se de ter o Python 3.x instalado em 
 
    ```bash
    git clone https://github.com/juxxnn/100DaysOfCode.git
-   cd 100DaysOfCod
+   cd 100DaysOfCode
+   cd band-name-generator-start
    
    ```
 Não há dependências externas, pois é um projeto Python puro.
 
 ## Como Rodar
 
-Descreva como rodar o seu programa em diferentes sistemas operacionais. Forneça exemplos de comandos que os usuários podem usar. Por exemplo:
+Dependendo do seu sistema operacional, use um dos seguintes comandos:
 
 ### Linux
 
