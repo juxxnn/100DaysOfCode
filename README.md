@@ -1,2 +1,23 @@
-# 100DaysOfCode
-Repositório destinado para o curso 100 Days of Code - Python | https://100daysofpython.dev/
+<h1 align='center'>Bootcamp 100DaysOfCode - Python</h1>
+
+![GitHub language count](https://img.shields.io/github/languages/count/juxxnn/100DaysOfCode)
+![GitHub](https://img.shields.io/github/license/juxxnn/100DaysOfCode)
+![GitHub repo size](https://img.shields.io/github/repo-size/juxxnn/100DaysOfCode)
+
+
+## Sobre
+Neste repositório é usado para documentar minha jornada, você encontrará projetos realizados todos os dias. São 100 projeto em 100 dias proposto pela [DayOfThePython](https://100daysofpython.dev/).
+
+O objetivo do [DayOfThePython](https://100daysofpython.dev/) é dominar a linguagem Python. 
+
+## Progresso
+
+- [✔️] 📚 Day 1 > [Beginner - Working with Variables in Python to Manage Date]()
+
+-------------------
+Esse repositório está sob licença MIT. Para mais detalhes, acesse <a href="https://github.com/juxxnn/100DaysOfCode/blob/main/LICENSE">license</a>.
+<br>
+<br>
+Feito com muito 💗 por <a href="https://github.com/juxxnn">Juliana Silva</a>
+<br>
+Gostou? Deixe uma estrelinha para ajudar ⭐
