@@ -13,7 +13,7 @@ O objetivo do #DayOfThePython é dominar a linguagem Python.
 
 ## Progresso
 
-- [✔️] 📚 Day 1 > [Beginner - Working with Variables in Python to Manage Date]()
+- [✔️] 📚 Day 1 > [Beginner - Working with Variables in Python to Manage Date](https://github.com/juxxnn/100DaysOfCode/tree/main/band-name-generator-start)
 
 -------------------
 Esse repositório está sob licença MIT. Para mais detalhes, acesse <a href="https://github.com/juxxnn/100DaysOfCode/blob/main/LICENSE">license</a>.
