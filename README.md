@@ -6,9 +6,10 @@
 
 
 ## Sobre
-Neste repositório é usado para documentar minha jornada, você encontrará projetos realizados todos os dias. São 100 projeto em 100 dias proposto pela [DayOfThePython](https://100daysofpython.dev/).
+Neste repositório é usado para documentar minha jornada, você encontrará projetos realizados todos os dias. 
+São 100 projetos em 100 dias proposto pela [DayOfThePython](https://100daysofpython.dev/).
 
-O objetivo do [DayOfThePython](https://100daysofpython.dev/) é dominar a linguagem Python. 
+O objetivo do #DayOfThePython é dominar a linguagem Python. 
 
 ## Progresso
 
