@@ -1,10 +1,10 @@
-# Gerador de Nomes de Bandas
+# Gerador de Nomes de Bandas 🎸🎹
 
 Este é um projeto simples em Python que gera nomes de bandas com base no nome da sua cidade e no nome do seu pet.
 
 ## Pré-requisitos
 
-Antes de executar este programa, certifique-se de ter o Python 3.x instalado em seu sistema. [Download Python](https://www.python.org/downloads/)
+Antes de executar este programa, certifique-se de ter o Python 3.x instalado em seu sistema: [Download Python](https://www.python.org/downloads/)
 
 ## Instalação
 
