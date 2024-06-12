@@ -14,6 +14,9 @@ O desafio "100 Days Of Code" é um compromisso pessoal para programar todos os d
 Cada pasta contém um projeto individual, juntamente com qualquer documentação relevante ou informações adicionais sobre o que foi aprendido nesse dia.
 
 - [✔️] 📚 Day 1 > [Project: Band Name Generator](https://github.com/juxxnn/100DaysOfCode/tree/main/band-name-generator-start)
+- [✔️] 📚 Day 2 > [Project: Tip Calculator Start](https://github.com/juxxnn/100DaysOfCode/tree/main/tip-calculator-start)
+- [✔️] 📚 Day 3 > [Project: Treasure Island](https://github.com/juxxnn/100DaysOfCode/tree/main/treasure-island)
+- [⏳️] 📚 Day 4 > 
 
 ## Pré-requisitos
 
