@@ -62,7 +62,7 @@ python main.py
 
 ## Uso
 
-Após executar o programa, siga as instruções na tela para inserir o nome da cidade e o nome do seu pet. O programa gerará um nome de banda criativo com base nessas informações.
+Após executar o programa, siga as instruções na tela para inserir o valor total da conta, a porcentagem de gorjeta que deseja dar (10, 12 ou 15), e o número de pessoas que irão dividir a conta. O programa calculará e exibirá a quantia que cada pessoa deve pagar.
 
 -------------------
 Esse repositório está sob licença MIT. Para mais detalhes, acesse <a href="https://github.com/juxxnn/100DaysOfCode/blob/main/LICENSE">license</a>.
