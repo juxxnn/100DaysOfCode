@@ -73,7 +73,3 @@ Esse repositório está sob licença MIT. Para mais detalhes, acesse <a href="ht
 Feito com muito 💗 por <a href="https://github.com/juxxnn">Juliana Silva</a>
 <br>
 Gostou? Deixe uma estrelinha para ajudar ⭐
-
-
-
-Personalize este README com informações específicas do seu projeto e adicione-o à raiz do seu repositório no GitHub para que os visitantes possam ler as instruções sobre como rodar o seu programa em diferentes sistemas operacionais.
